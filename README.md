@@ -1,5 +1,5 @@
 # EcubMakerToyDIY
-Settings for the EcubMakerToyDIY
+Settings for the EcubMakerToyDIY (tested on Cura 4.4.1)
 
 The settings and profiles found in this repository are extracted from the generated gcode files of the EcubWare cura clone. They have been fixed and modified to operate more efficiently. Use at your own risk.
 
