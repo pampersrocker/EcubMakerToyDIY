@@ -5,5 +5,5 @@ The settings and profiles found in this repository are extracted from the genera
 
 Things to keep in mind:
 
-* Ensure Fan Speed is set to 100% at all times as there is only a single fan for colling and part cooling, so if the fan is turned off, the printer head will no longer be sufficiently cooled.
+* Ensure Fan Speed is set to 100% at all times as there is only a single fan for cooling and part cooling, so if the fan is turned off, the printer head will no longer be sufficiently cooled.
 * Dual FDM printing is currently extremely slow and broken as a filament change takes about a minute and will cause oozing when returning from the sidebay.
